@@ -1,0 +1,10 @@
+.container{
+    @apply relative bg-primary-50
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+
+    @apply text-base text-primary-900 hover:text-primary-500 text-xl;
+}

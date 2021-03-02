@@ -1,0 +1,367 @@
+{
+	"profile": {
+		"heading": "Profile",
+		"photograph": "",
+		"fullName": "",
+		"subtitle": "",
+		"birthDate": "",
+		"address": {
+			"line1": "",
+			"line2": "",
+			"city": ""
+		},
+		"website": "",
+		"email": ""
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true,
+		"items": []
+	},
+	"objective": {
+		"heading": "Objective",
+		"visible": true,
+		"body": ""
+	},
+	"work": {
+		"heading": "Work Experience",
+		"visible": true,
+		"items": []
+	},
+	"education": {
+		"heading": "Education",
+		"visible": true,
+		"items": []
+	},
+	"publications": {
+		"heading": "Publications",
+		"visible": true,
+		"items": []
+	},
+	"courses": {
+		"heading": "Courses",
+		"visible": true,
+		"items": []
+	},
+	"research": {
+		"heading": "Research",
+		"visible": true,
+		"items": []
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true,
+		"items": []
+	},
+	"awards": {
+		"heading": "Awards",
+		"visible": true,
+		"items": []
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true,
+		"items": []
+	},
+	"skills": {
+		"heading": "Skills",
+		"visible": true,
+		"items": []
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true,
+		"items": []
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true,
+		"items": []
+	},
+	"references": {
+		"heading": "References",
+		"visible": true,
+		"items": []
+	},
+	"topic": {
+		"heading": "topic",
+		"items": [],
+		"visible": true
+	},
+	"undergradStudents": {
+		"heading": "Undergrad students",
+		"items": [],
+		"visible": true
+	},
+	"postgradStudents": {
+		"heading": "Postgrad students",
+		"items": [],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#f44336",
+			"text": "#212121"
+		},
+		"layout": {
+			"castform": [
+				[
+					"education",
+					"awards",
+					"certifications",
+					"publications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"courses",
+					"research",
+					"skills",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"publications",
+					"research",
+					"courses",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"skills",
+					"projects",
+					"languages",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects",
+					"publications",
+					"courses",
+					"research"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"doremon": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"courses",
+					"research"
+				],
+				[
+					"education",
+					"certifications",
+					"awards",
+					"work",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"nobita": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"courses",
+					"research"
+				],
+				[
+					"objective",
+					"education",
+					"certifications",
+					"awards",
+					"work",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"chaien": [
+				[
+					"references",
+					"skills",
+					"languages",
+					"hobbies",
+					"education",
+					"certifications",
+					"awards"
+				],
+				[
+					"objective",
+					"courses",
+					"research",
+					"work",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			],
+			"xuka": [
+				[
+					"references",
+					"skills",
+					"languages",
+					"hobbies",
+					"certifications",
+					"awards"
+				],
+				[
+					"work",
+					"education",
+					"courses",
+					"research",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			]
+		},
+		"sections": [
+			"profile",
+			"social",
+			"objective",
+			"work",
+			"education",
+			"publications",
+			"courses",
+			"research",
+			"projects",
+			"awards",
+			"certifications",
+			"skills",
+			"hobbies",
+			"languages",
+			"references",
+			"topic",
+			"undergradStudents",
+			"postgradStudents"
+		],
+		"font": "Open Sans",
+		"fontSize": 12,
+		"language": "en",
+		"template": "onyx",
+		"name": "Resume CV"
+	},
+	"sectionsLeft": [
+		{
+			"id": "profile"
+		}
+	],
+	"sectionsRight": [
+		{
+			"id": "templates"
+		}
+	],
+	"public": true
+}

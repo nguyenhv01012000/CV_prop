@@ -1,0 +1,393 @@
+{
+  "shared": {
+    "appName": "Resume builder",
+    "shortDescription": "Trình tạo sơ yếu lý lịch miễn phí với mã nguồn mở",
+    "forms": {
+      "name": "Tên",
+      "namePlaceholder": "Nhập tên",
+      "title": "Tiêu đề",
+      "enterTitle": "Nhập tiêu đề",
+      "subtitle": "Tiêu đề con",
+      "required": "cần thiết",
+      "website": "Trang web",
+      "websitePlaceholder": "Nhập trang web của bạn",
+      "date": "Ngày",
+      "present": "Hiện tại",
+      "position": "Vị trí",
+      "positionPlaceholder": "Nhập vị trí của bạn",
+      "startDate": "Ngày bắt đầu",
+      "endDate": "Ngày kết thúc",
+      "address": "Địa chỉ",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "email": "Địa chỉ email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "summary": "miêu tả",
+      "markdown": "Được hỗ trợ bởi <1>markdown</1>.",
+      "validation": {
+        "min": "Yêu cầu nhập tối thiểu {{number}} ký tự.",
+        "dateRange": "Ngày kết thúc phải ở sau ngày bắt đầu.",
+        "email": "Yêu cầu địa chỉ email hợp lệ.",
+        "required": "Trường bắt buộc.",
+        "url": "Yêu cầu URL hợp lệ."
+      }
+    },
+    "buttons": {
+      "add": "Thêm",
+      "edit": "Sửa",
+      "cancel": "Hủy",
+      "delete": "Xóa",
+      "loading": "Đang tải...",
+      "confirmation": "Bạn có chắc không?",
+      "login": "Đăng nhập",
+      "logout": "Đăng ký"
+    },
+    "toasts": {
+			"saveSuccess": "Lưu cv thành công",
+			"saveFail": "Lưu cv thất b"
+		}
+  },
+  "landing": {
+    "hero": {
+      "goToApp": "Đi đến App"
+    }
+  },
+  "dashboard": {
+    "title": "Bảng Điều Khiển",
+    "createResume": "Tạo Hồ Sơ",
+    "editResume": "Sửa Hồ Sơ",
+    "lastUpdated": "Cập Nhập Mới Nhất {{timestamp}}",
+    "toasts": {
+      "deleted": "{{name}} Đã Xóa Thánh Công"
+    },
+    "buttons": {
+      "duplicate": "Nhân Đôi",
+      "rename": "Đổi Tên"
+    },
+    "helpText": "Bạn sẽ tạo một sơ yếu lý lịch mới từ đầu, nhưng trước tiên, hãy đặt tên cho nó. Đây có thể là tên của phần bạn muốn ứng tuyển hoặc nếu bạn đang làm việc trên sơ yếu lý lịch của một người bạn, bạn có thể gọi nó là Sơ yếu lý lịch của Alex.."
+  },
+  "builder": {
+    "header": {
+      "manageCV": "Quản lý CV",
+      "User": "Người dùng",
+      "Template": "Mẫu cv",
+      "Advisor": "Tư vấn",
+      "Discover": "Khám phá"
+    },
+    "toasts": {
+      "formErrors": "Bạn có thể cần điền vào tất cả các phần bắt buộc trước khi gửi biểu mẫu này.",
+      "doesNotExist": "Sơ yếu lý lịch bạn đang tìm kiếm không tồn tại nữa ... hoặc có thể nó có thể chưa có?",
+      "loadDemoData": "Nếu bạn không chắc chắn bắt đầu từ đâu? Hãy thử tải dữ liệu mẫu để xem Reactive Resume cung cấp những gì.",
+      "printError": "Chức năng này đang gặp sự cố, vui lòng thử lại sau hoặc sử dụng tính năng in của trình duyệt.",
+      "notAvailible": "Kiểm tra lại kết nối mạng",
+      "serviceNotWork": "Chức năng hiện không hoạt động"
+    },
+    "sections": {
+      "heading": "Tên đề mục",
+      "profile": "Hồ sơ",
+      "social": "Mạng xã hội",
+      "objective": "Mục tiêu",
+      "work": "Kinh nghiệm làm việc",
+      "education": "Học vấn",
+      "project": "Dự án",
+      "projects": "Dự án",
+      "award": "Giải thưởng",
+      "awards": "Giải thưởng",
+      "certification": "Chứng nhận",
+      "certifications": "Chứng nhận",
+      "skill": "Kỹ năng",
+      "skills": "Kỹ năng",
+      "hobby": "Sở thích",
+      "hobbies": "Sở thích",
+      "language": "Khả năng ngôn ngữ",
+      "languages": "Khả năng ngôn ngữ",
+      "reference": "Người giới thiệu",
+      "references": "Người giới thiệu",
+      "publications": "Công bố",
+      "courses": "Giảng dạy",
+      "research": "Nghiên cứu",
+      "save-cv": "Lưu CV",
+      "templates": "Mẫu",
+      "layout": "Bố cục",
+      "colors": "Màu sắc",
+      "font-size": "Kích thước chữ",
+      "fonts": "Kiểu chữ",
+      "actions": "Hoạt động",
+      "settings": "Cài đặt",
+      "about": "Giới thiệu",
+      "topic": "Đồ án",
+      "undergradStudents": "Sinh viên đại học",
+      "postgradStudents": "Sinh viên sau đại học"
+    },
+    "profile": {
+      "photograph": "Ảnh",
+      "fName": "Họ và tên",
+      "birthDate": "Sinh nhật",
+      "address": {
+        "line1": "Địa chỉ 1",
+        "line2": "Địa chỉ 2",
+        "city": "Thành phố",
+        "pincode": "Mã Zip"
+      }
+    },
+    "projects": {
+      "author": "Các tác giả",
+      "authorPlaceholder": "Nhập tên các tác giả",
+      "mainAuthor": "Tác giả chính",
+      "mainAuthorPlaceholder": "Nhập tên tác giả chính",
+      "duration": "Thời hạn",
+      "durationPlaceholder": "Nhập thời hạn",
+      "issuedDate": "Ngày ban hành",
+      "issuedDatePlaceholder": "Nhập ngày ban hành",
+      "projectTypeItem": "Loại dự án",
+      "projectTypeItemPlaceholder": "Nhập loại dự án",
+      "projectLevelItem": "Mức độ của dự án",
+      "projectLevelItemPlaceholder": "Nhập mức độ của dự án"
+    },
+    "social": {
+      "network": "Mạng xã hội",
+      "networkPlaceholder": "Nhập tên mạng xã hội(facebook, zalo, ...)",
+      "username": "Tên đăng nhập",
+      "usernamePlaceholder": "Nhập tên đăng nhập",
+      "url": "Link",
+      "urlPlaceholder": "Nhập link mạng xã hội của bạn"
+    },
+    "work": {
+      "company": "Công ty/tổ chức",
+      "companyPlaceholder": "Nhập tên công ty/tổ chức của bạn"
+    },
+    "education": {
+      "institution": "Tổ chức",
+      "field": "Ngành học",
+      "degree": "Loại bằng",
+      "gpa": "GPA",
+      "institutionPlaceholder": "Nhập tên tổ chức",
+      "fieldPlaceholder": "Nhập tên ngành học",
+      "degreePlaceholder": "Nhập loại bằng",
+      "gpaPlaceholder": "Nhập GPA của bạn"
+    },
+    "awards": {
+      "awarder": "Giải thưởng",
+      "awarderPlaceholder": "Nhập tên tổ chức trao giải"
+    },
+    "certifications": {
+      "issuer": "Vấn đề",
+      "issuerPlaceholder": "Nhập vấn đề của chứng chỉ"
+    },
+    "skills": {
+      "level": "Cấp độ",
+      "levelPlaceholder": "Nhập cấp độ"
+    },
+    "languages": {
+      "fluency": "Mức độ thành thạo",
+      "fluencyPlaceholder": "Nhập mức độ thành thạo"
+    },
+    "publications": {
+      "authors": "Các tác giả",
+      "conference": "Hội nghị",
+      "issuedDate": "Thời gian",
+      "url": "Url",
+      "authorPlaceholder": "Nhập tên tác giả",
+      "conferencePlaceholder": "Nhập tên hội nghị",
+      "urlPlaceholder": "Nhập đường dẫn công bố"
+    },
+    "courses": {
+      "name": "Học phần",
+      "namePlaceholder": "Nhập tên học phần",
+      "coursesId": "Mã học phần",
+      "coursesIdPlaceholder": "Nhập mã học phần",
+      "classId": "Mã lớp",
+      "classIdPlaceholder": "Nhập mã lớp",
+      "semester": "Kỳ học",
+      "semesterPlaceholder": "Nhập kỳ học",
+      "program": "Chương trình học",
+      "programPlaceholder": "Nhập chương trình học"
+    },
+    "topic": {
+      "title": "Tên",
+      "programs": "Các chương trình",
+      "collaboration": "Số cộng tác",
+      "studentNum": "Số sinh viên",
+      "description": "Miêu tả",
+      "titlePlaceholder": "Nhập tên",
+      "programsPlaceholder": "Nhập các chương trình",
+      "collaborationPlaceholder": "Nhập số cộng tác",
+      "studentNumPlaceholder": "Nhập số sinh viên"
+    },
+    "undergradStudents": {
+      "fullName": "Tên sinh viên",
+      "namePlaceholder": "Nhập tên sinh viên",
+      "coursesId": "Mã học phần",
+      "coursesIdPlaceholder": "Nhập mã học phần",
+      "classId": "Mã lớp",
+      "classIdPlaceholder": "Nhập mã lớp",
+      "semester": "Kỳ học",
+      "semesterPlaceholder": "Nhập kỳ học",
+      "program": "Chương trình học",
+      "programPlaceholder": "Nhập chương trình học",
+      "studentId": "Mã sinh viên",
+      "studentIdPlaceholder": "Nhập mã sinh viên",
+      "topic": "Đồ án",
+      "topicPlaceholder": "Nhập đồ án"
+    },
+    "postgradStudents": {
+      "fullName": "Tên sinh viên",
+      "namePlaceholder": "Nhập tên sinh viên",
+      "coursesId": "Mã học phần",
+      "coursesIdPlaceholder": "Nhập mã học phần",
+      "classId": "Mã lớp",
+      "classIdPlaceholder": "Nhập mã lớp",
+      "semester": "Kỳ học",
+      "semesterPlaceholder": "Nhập kỳ học",
+      "program": "Chương trình học",
+      "programPlaceholder": "Nhập chương trình học",
+      "studentId": "Mã sinh viên",
+      "studentIdPlaceholder": "Nhập mã sinh viên",
+      "topic": "Đồ án",
+      "topicPlaceholder": "Nhập đồ án"
+    },
+    "research": {
+      "name": "Nghiên cứu",
+      "namePlaceholder": "Nhập tên nghiên cứu",
+      "description": "Miêu tả nghiên cứu",
+      "descriptionPlaceholder": "Nhập miêu tả",
+      "rootId": "Root id",
+      "rootIdPlaceholder": "Nhập rootId",
+      "level": "Cấp độ nghiên cứu",
+      "levelPlaceholder": "Nhập cấp độ nghiên cứu",
+      "parentId": "Parent id",
+      "parentIdPlaceholder": "Nhập parentId",
+      "isMain": "Nghiên cứu chính",
+      "mainResearch": "Nghiên cứu chính",
+      "relateResearch": "Nghiên cứu quan tâm"
+    },
+    "layout": {
+      "block": "Khối",
+      "reset": "Đặt lại bố cục",
+      "text": "Mẫu này có {{count}} khối."
+    },
+    "savecv": {
+      "heading": "Tên CV",
+      "text": "Tên CV",
+      "button": "Lưu cv của bạn"
+    },
+    "colors": {
+      "primary": "Màu chủ đạo",
+      "text": "Màu chữ",
+      "background": "Màu nền"
+    },
+    "actions": {
+      "import": {
+        "heading": "Thêm hồ sơ",
+        "text": "Bạn có thể nhập thông tin của mình từ nhiều nguồn khác nhau như JSON Resume hoặc LinkedIn của bạn để tự động điền hầu hết dữ liệu cho sơ yếu lý lịch của bạn.",
+        "button": "Thêm"
+      },
+      "export": {
+        "heading": "Xuất hồ sơ",
+        "text": "Xuất sơ yếu lý lịch của bạn dưới dạng PDF để chia sẻ với nhà tuyển dụng hoặc JSON mà bạn có thể nhập lại vào ứng dụng này trên một máy tính khác.",
+        "button": "Xuất"
+      },
+      "preview": {
+        "heading": "Xem trước cv của bạn",
+        "text": "Xem trước cv của bạn",
+        "button": "Xem"
+      },
+      "share": {
+        "heading": "Chia sẻ hồ sơ cho bạn bè",
+        "text": "Liên kết bên dưới sẽ có thể truy cập công khai nếu bạn chọn chia sẻ nó và người xem sẽ thấy phiên bản sơ yếu lý lịch mới nhất của bạn bất kỳ lúc nào."
+      },
+      "loadDemoData": {
+        "text": "Nếu bạn không rõ phải làm gì hãy tải một số dữ liệu mẫu để xem sơ yếu lý lịch trông như thế nào và bạn có thể bắt đầu chỉnh sửa từ đó.",
+        "button": "Tải dữ liệu mẫu"
+      },
+      "resetEverything": {
+        "text": "Nếu bạn cảm thấy đã mắc lỗi ?  Đừng lo lắng, xóa mọi thứ chỉ với một cú nhấp chuột, nhưng hãy cẩn thận nếu không có bản sao lưu.",
+        "button": "Khởi tạo lại tất cả"
+      }
+    },
+    "settings": {
+      "theme": "Chủ đề",
+      "language": "Ngôn ngữ",
+      "translate": "Nếu bạn muốn đóng góp bằng cách cung cấp bản dịch sang ngôn ngữ của bạn, <1>truy cập link sau</1>.",
+      "themeConfig": {
+				"Light": "Sáng",
+				"Dark": "Tối",
+				"AMOLED": "Tương phản"
+			}
+    },
+    "about": {
+      "donate": {
+        "heading": "Hỗ trợ cho Reactive Resume",
+        "text": "Tôi cố gắng làm những gì có thể, nhưng nếu bạn thấy ứng dụng hữu ích hoặc bạn ở vị trí tốt hơn những người khác phụ thuộc vào dự án này cho công việc đầu tiên của họ, <1> hãy cân nhắc quyên góp ít nhất là 100.000 đồng </1> :)",
+        "button": "Mua tặng tôi một tách cà phê!"
+      },
+      "bugFeature": {
+        "heading": "Lỗi? Yêu cầu tính năng?",
+        "text": "Điều gì đó ngăn cản tiến trình của bạn trong việc lập sơ yếu lý lịch? Tìm thấy một lỗi khó chịu mà vẫn không thoát? Nói về vấn đề này trong phần Sự cố GitHub bằng các thao tác bên dưới.",
+        "button": "Đặt vấn đề"
+      },
+      "appreciate": {
+        "heading": "Bạn có yêu thích Reactive Resume?",
+        "text": "Tôi chưa bao giờ cảm thấy mệt mỏi khi nghe những câu chuyện về cách ứng dụng này đã giúp mọi người và nếu nó giúp ích cho bạn hoặc bạn vừa thấy Reactive Resume là một công cụ tuyệt vời, hãy cho tôi biết. Bạn có thể liên hệ với tôi trên trang web của tôi."
+      },
+      "sourceCode": {
+        "heading": "Mã nguồn",
+        "text": "Bạn muốn chạy dự án từ nguồn của nó? Bạn có sẵn sàng đóng góp vào sự phát triển mã nguồn mở của dự án này không? Nhấp vào nút bên dưới.",
+        "button": "GitHub Repo"
+      },
+      "footer": "Được tạo bởi <1>Civipro</1>"
+    },
+    "tooltips": {
+      "uploadPhotograph": "Tải ảnh",
+      "backToDashboard": "Trở lại bảng điều khiển"
+    },
+    "emptyList": "Danh sách trống."
+  },
+  "modals": {
+    "auth": {
+      "whoAreYou": "Bạn là ai?",
+      "welcome": "Xin chào, {{name}}!",
+      "loggedOutText": "Reactive Resume cần biết bạn là ai để ứng dụng có thể xác thực bạn một cách an toàn vào ứng dụng và chỉ hiển thị thông tin của bạn. Khi bạn đã tham gia, bạn có thể bắt đầu xây dựng sơ yếu lý lịch của mình, chỉnh sửa nó để thêm các kỹ năng mới hoặc chia sẻ nó với mọi người!",
+      "loggedInText": "Tuyệt vời. Bạn đã xác thực, chúng tôi có thể tiếp tục với quá trình của bạn ở đây. Nhấp vào nút Đi tới APP để bắt đầu xây dựng sơ yếu lý lịch của bạn!",
+      "buttons": {
+        "google": "Đăng nhập với tài khoản Google",
+        "anonymous": "Đăng nhập vô danh"
+      }
+    },
+    "import": {
+      "button": "Chọn tệp",
+      "reactiveResume": {
+        "heading": "Nhập từ Reactive Resume",
+        "text": "Reactive Resume có định dạng lược đồ riêng để tận dụng tối đa tất cả các khả năng tùy chỉnh mà nó cung cấp. Nếu bạn muốn nhập bản sao lưu sơ yếu lý lịch của mình được tạo bằng ứng dụng này, chỉ cần tải tệp lên bằng nút bên dưới."
+      },
+      "jsonResume": {
+        "heading": "Nhập từ JSON Resume",
+        "text": "JSON Resume là một tiêu chuẩn mở cho cấu trúc giản đồ sơ yếu lý lịch. Nếu bạn là một trong nhiều người đam mê đã chuẩn bị sẵn hồ sơ xin việc ở định dạng này, bạn chỉ cần một cú nhấp chuột để bắt đầu với Reactive Resume."
+      },
+      "linkedIn": {
+        "heading": "Nhập từ LinkedIn",
+        "text": "Bạn có thể nhập JSON đã được xuất từ LinkedIn bằng cách nhấp vào nút bên dưới và chọn tệp thích hợp."
+      }
+    },
+    "export": {
+      "printDialog": {
+        "heading": "Dùng trình duyệt Print Dialog",
+        "text": "Đối với những người bạn muốn có một giải pháp nhanh chóng, bạn không cần phải tìm đâu xa hơn trình duyệt của mình. Tất cả những gì bạn phải làm là nhấn Ctrl / Cmd + P và mở hộp thoại in trên trình duyệt và in sơ yếu lý lịch ngay lập tức.",
+        "button": "In Hồ Sơ"
+      },
+      "downloadPDF": {
+        "heading": "Tải PDF",
+        "text": "Những tùy chọn này cho phép bạn in một trang duy nhất, phiên bản sơ yếu lý lịch của bạn, hoàn hảo cho những người có nhiều nội dung. Ngoài ra, bạn cũng có thể tải xuống phiên bản sơ yếu lý lịch nhiều trang của mình chỉ với một cú nhấp chuột. ",
+        "buttons": {
+          "single": "Một trang hồ sơ",
+          "multi": "Nhiều trang hồ sơ"
+        }
+      },
+      "jsonFormat": {
+        "heading": "Xuất sang định dạng JSON",
+        "text": "Bạn cũng có thể xuất dữ liệu của mình sang định dạng JSON để lưu giữ an toàn để có thể dễ dàng nhập dữ liệu trở lại vào Reactive Resume bất cứ khi nào bạn muốn chỉnh sửa hoặc tạo một sơ yếu lý lịch.",
+        "button": "Xuất định dạng JSON"
+      }
+    }
+  }
+}

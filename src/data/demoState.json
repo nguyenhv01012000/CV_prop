@@ -1,0 +1,776 @@
+{
+	"profile": {
+		"address": {
+			"city": "Bangalore, India -",
+			"line1": "#5/A, Banashankari Nivas,",
+			"line2": "Brindavan Layout, Subramanyapura,"
+		},
+		"birthDate": "",
+		"email": "hello@amruthpillai.com",
+		"fullName": "Amruth Pillai",
+		"heading": "Profile",
+		"phone": "+91 98453 36113",
+		"photograph": "https://i.imgur.com/2dmLSCT.jpg",
+		"subtitle": "Full Stack Web Developer",
+		"website": "amruthpillai.com"
+	},
+	"awards": {
+		"heading": "Awards",
+		"items": [
+			{
+				"awarder": "Google",
+				"date": "2019-04-01",
+				"id": "6f857f2b-6312-4a0d-907d-2e17991954eb",
+				"summary": "",
+				"title": "International Flutter Hackathon",
+				"visible": true
+			},
+			{
+				"awarder": "Venturesity",
+				"date": "2016-06-01",
+				"id": "f6efa3f9-9741-4e36-a538-ba0d9779bc61",
+				"summary": "",
+				"title": "Venturesity Banyan Hack",
+				"visible": true
+			},
+			{
+				"awarder": "Govt. of India",
+				"date": "2017-04-01",
+				"id": "89c0171a-eae9-403e-9f4c-a757fb535c2b",
+				"summary": "",
+				"title": "Smart India Hackathon",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"items": [
+			{
+				"date": "2018-02-01",
+				"id": "d2ec12bc-7876-46bc-afd4-11ae06faf3bd",
+				"issuer": "Cisco Systems",
+				"summary": "",
+				"title": "CCNP",
+				"visible": true
+			},
+			{
+				"date": "2019-06-01",
+				"id": "f8312288-53ae-4504-a768-4b67aea95926",
+				"issuer": "VMWare",
+				"summary": "",
+				"title": "VCP6-DCV",
+				"visible": true
+			},
+			{
+				"date": "2014-04-01",
+				"id": "11107df6-5f3c-49ae-bcd4-62b8baa181a1",
+				"issuer": "Cisco Systems",
+				"summary": "",
+				"title": "DCUCI 642-999",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "Masters",
+				"endDate": "2002-08-01",
+				"field": "Computer Science",
+				"gpa": "7.2 CGPA",
+				"id": "c42e2a5a-3f0d-497e-838b-ac2019dcf045",
+				"institution": "The City College of New York, NYC, NY",
+				"startDate": "2001-09-01",
+				"summary": "",
+				"visible": true
+			},
+			{
+				"degree": "Bachelors",
+				"endDate": "2001-08-01",
+				"field": "Computer Science",
+				"gpa": "8.4 CGPA",
+				"id": "278490a2-c327-4e83-8be8-adf913a9b36c",
+				"institution": "University of California, Berkeley, CA",
+				"startDate": "1997-09-01",
+				"summary": "",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"publications": {
+		"heading": "Publications",
+		"items": [
+			{
+				"title": "Modeling Multi-constrained Fog-cloud Environment for Task Scheduling Problem",
+				"authors": "Thang Nguyen; Khiem Doan; Giang Nguyen; Binh Minh Nguyen",
+				"conference": "The 19th International Symposium on Network Computing and Applications (NCA 2020)",
+				"issuedDate": "24-11-2020",
+				"url": "https://ieeexplore.ieee.org/document/9306718",
+				"id": "",
+				"summary": "",
+				"visible": true
+			},
+			{
+				"title": "nQSV-Net: A Novel Queuing Search Variant for Global Space Search and Workload Modeling",
+				"authors": "Nguyen Binh Minh; Hoang Bao; Nguyen Thieu; and Nguyen Giang",
+				"conference": "Journal of Ambient Intelligence and Humanized Computing",
+				"issuedDate": "05-11-2020",
+				"url": "https://link.springer.com/article/10.1007/s12652-020-02849-4#citeas",
+				"id": null,
+				"summary": "",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"courses": {
+		"heading": "Courses",
+		"items": [
+			{
+				"name": "Điện toán đám mây-1-20 (BK01)",
+				"courseId": "IT5404",
+				"classId": "IT5404-1-20 (BK01)",
+				"semester": "20202",
+				"program": "",
+				"id": null,
+				"visible": true
+			},
+			{
+				"name": "C Programming Language",
+				"courseId": "IT3210",
+				"classId": "122102",
+				"semester": "20202",
+				"program": "",
+				"id": null,
+				"visible": true
+			},
+			{
+				"name": "Big Data Integration and Processing-1-20 (BK01)",
+				"courseId": "IT5427E",
+				"classId": "IT5427E-1-20 (BK01)",
+				"semester": "20202",
+				"program": "",
+				"id": null,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"research": {
+		"heading": "Research",
+		"items": [
+			{
+				"id": 5422688858275840,
+				"name": "Các hệ thống phân tán",
+				"description": "",
+				"rootId": 6065693862658048,
+				"level": 2,
+				"parentId": -1,
+				"isMainResearch": true,
+				"visible": true
+			},
+			{
+				"id": 6548588765118464,
+				"name": "Phân tích dữ liệu",
+				"description": "",
+				"rootId": 6065693862658048,
+				"level": 2,
+				"parentId": -1,
+				"isMainResearch": false,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"items": [
+			{
+				"id": "788dcf5a-78ca-4866-8397-c7a29073d9a1",
+				"name": "Poetry",
+				"visible": true
+			},
+			{
+				"id": "e3523371-f50c-4348-8c5e-35fe84c0006d",
+				"name": "Travelling",
+				"visible": true
+			},
+			{
+				"id": "92c35e3b-6cd7-4cea-b505-61347ec61b68",
+				"name": "Photography",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "Very Fluent",
+				"id": "78d8cf32-84c7-431d-969b-fdf277968026",
+				"name": "English",
+				"visible": true
+			},
+			{
+				"fluency": "Native Tongue",
+				"id": "9e0bd5ed-b88d-4046-8fb9-ecba54d29924",
+				"name": "Tamil",
+				"visible": true
+			},
+			{
+				"fluency": "Native Tongue",
+				"id": "cb895aa9-c485-4bf3-a9e3-08e8f219451a",
+				"name": "Kannada",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"objective": {
+		"body": "To obtain a job within my chosen field that will challenge me and allow me to use my education, skills and past experiences in a way that is mutually beneficial to both myself and my employer and allow for future growth and advancement.",
+		"heading": "Objective",
+		"visible": true
+	},
+	"projects": {
+		"heading": "Projects",
+		"items": [
+			{
+				"title": "Kéo dài thời gian hoạt động của mạng Internet vạn vật sử dụng các thuật toán lấy cảm hứng từ tự nhiên",
+				"authors": "Huỳnh Thị Thanh Bình, Nguyễn Phi Lê, Nguyễn Bình Minh, Nguyễn Khánh Phương, Bùi Thu Lâm, Lê Trọng Vĩnh, Nguyễn Thị Tâm, Trần Thị Hương",
+				"idNumber": "102.01-2019.304",
+				"mainAuthor": "Huỳnh Thị Thanh Bình",
+				"duration": 24,
+				"issuedDate": "01-04-2020",
+				"projectTypeItem": {
+					"id": 4870736787275776,
+					"name": "Đề tài thuộc quỹ Nafosted",
+					"description": ""
+				},
+				"projectLevelItem": {
+					"id": 6090950849855488,
+					"name": "Các nhiệm vụ cấp Bộ, ngành khác",
+					"level": 3,
+					"description": ""
+				},
+				"id": null,
+				"visible": true
+			},
+			{
+				"title": "AgriBKChain: một mạng lưới dựa trên chuỗi khối cho việc truy xuất nguồn gốc và quảng cáo sản phẩm nông nghiệp.",
+				"authors": "Đào Thành Chung, Nguyễn Bình Minh, Đỗ Bá Lâm, Mohd Fadlee A.Rasid, Zuriati Ahmad Zukarnain, Beston Nore, Syazana binti Abdullah Lim, Fumihide Kojima, Kentaro Ishizuo, Nguyen Tien Thao, Nguyen Duc Thang, Tee Ngin Long,  Muhammad Firdaus bin Mohd Yusof,  MOHD IZUAN HAFEZ BIN HJ. NINGGAL, Fazirulhisyam Hashim, Muhammad Haikal Hakim bin Haji Latip, Zaitunah binti Haji Kurust",
+				"idNumber": "ASEAN-IVO",
+				"mainAuthor": "Đào Thành Chung",
+				"duration": 24,
+				"issuedDate": "01-04-2019",
+				"projectTypeItem": {
+					"id": 5996636694118400,
+					"name": "Đề tài, dự án Hợp tác quốc tế",
+					"description": ""
+				},
+				"projectLevelItem": null,
+				"id": null,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"references": {
+		"heading": "References",
+		"items": [
+			{
+				"email": "willywonka@goldenticket.com",
+				"id": "168339fd-3c4b-4f2f-bd3a-ef184be81700",
+				"name": "Willy Wonka",
+				"phone": "+1 (802) 234-2398",
+				"position": "CEO at Chocolate Factory",
+				"summary": "",
+				"visible": true
+			},
+			{
+				"email": "elanmusk@nottesla.com",
+				"id": "350465b9-9989-43cc-b97e-4115b8980304",
+				"name": "Elangovan Musk",
+				"phone": "+91 93893 34353",
+				"position": "CEO at Newton Motors",
+				"summary": "",
+				"visible": true
+			},
+			{
+				"email": "l.beasley@carsonlogistics.com",
+				"id": "94e3447b-0a78-4fb7-b14d-591982d35320",
+				"name": "Lorraine Beasley",
+				"phone": "+1 661-808-4188",
+				"position": "Head of HR, Carson Logistics",
+				"summary": "",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "54e5bceb-d0e9-4f04-98d1-48a34f7cf920",
+				"level": "Advanced",
+				"name": "Customer Service Expertise",
+				"visible": true
+			},
+			{
+				"id": "f0274f62-2252-4cc0-bf12-9e1070942c50",
+				"level": "Intermediate",
+				"name": "High-Volume Call Center",
+				"visible": true
+			},
+			{
+				"id": "689e2852-df1b-4d41-bda8-c41c88196264",
+				"level": "Intermediate",
+				"name": "Team Leader/Problem Solver",
+				"visible": true
+			},
+			{
+				"id": "3a4f73b1-50c1-4a85-a4b0-2a55dfe5053a",
+				"level": "Novice",
+				"name": "Call Center Management",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "a832b37d-f11d-4a80-8b4d-24796e571b17",
+				"network": "Instagram",
+				"url": "https://pillai.xyz/instagram",
+				"username": "AmruthPillai",
+				"visible": true
+			},
+			{
+				"id": "a72107fa-a4a5-407d-9e85-39bdb9c0b11a",
+				"network": "Twitter",
+				"url": "https://pillai.xyz/twitter",
+				"username": "KingOKings",
+				"visible": true
+			},
+			{
+				"id": "1dd46fdd-b3a3-4786-89ce-2e77c0823aba",
+				"network": "LinkedIn",
+				"url": "https://pillai.xyz/linkedin",
+				"username": "AmruthPillai",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work",
+		"items": [
+			{
+				"company": "On Point Electronics, NYC, NY",
+				"endDate": "2018-07-01",
+				"id": "d7c64937-0cb9-41b1-a3a6-0679c882fe63",
+				"position": "Customer Service Representative",
+				"startDate": "2013-01-01",
+				"summary": "- Organized customer information and account data for business planning and customer service purposes.\n- Created excel spreadsheets to track customer data and perform intense reconciliation process.\n- Received 97% positive customer survey results.\n- Speed on calls was 10% above team average.  \n**Key Achievement:** Designed and executed an automatized system for following up with customers, increasing customer retention by 22%.",
+				"website": "https://onpoint.com",
+				"visible": true
+			},
+			{
+				"company": "Excelsior Communications, NYC, NY",
+				"endDate": "2012-12-01",
+				"id": "f5c5dcfe-2a60-4169-a2f1-b305355518ea",
+				"position": "Customer Service Representative",
+				"startDate": "2009-10-01",
+				"summary": "- Worked as a full time customer service rep in a high volume call center.\n- Received \"Associate of the Month\" award six times.\n- Chosen as an example for other associates in trainings.  \n**Key Achievement:** Received Customer Appreciation bonus in three of four years.",
+				"website": "https://excelsior.com",
+				"visible": true
+			},
+			{
+				"company": "Pizza Hut, Newark, NJ",
+				"endDate": "2009-09-01",
+				"id": "dd935088-6fe7-4a4b-8ff5-7417c32d2add",
+				"position": "Waiter",
+				"startDate": "2005-08-01",
+				"summary": "- Worked passionately in customer service in a high volume restaurant.\n- Completed the FAST customer service training class.\n- Maintained a high tip average thanks to consistent customer satisfaction.",
+				"website": "https://pizzahut.com",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"topic": {
+		"heading": "topic",
+		"items": [
+			{
+				"title": "Phân tích dữ liệu chuỗi thời gian cho bài toán dự báo",
+				"collaboration": 1,
+				"programs": "Thang Nguyen; Khiem Doan; Giang Nguyen; Binh Minh Nguyen",
+				"studentNum": "4",
+				"description": "Tìm hiểu các phương pháp phân tích dữ liệu hiện đại (Mạng nơ-ron, Học máy, Học sâu, Khai phá dữ liệu)\nTìm hiểu về dữ liệu chuỗi thời gian\nTÌm hiểu các giải thuật lấy cảm hứng từ tự nhiên, sinh học\nKết hợp các phương pháp học máy và giải thuật tự nhiên đề xuất mô hình dự đoán dữ liệu chuỗi thời gian\nThử nghiệm với dữ liệu thực tế.",
+				"id": null,
+				"visible": true
+			},
+			{
+				"title": "Tính toán phân tán",
+				"collaboration": 1,
+				"programs": [
+					"ThSKH",
+					"VB2",
+					"CNKT",
+					"KSCQ",
+					"SIE",
+					"KSTN",
+					"CTTT"
+				],
+				"studentNum": "",
+				"description": "Nghiên cứu và sử dụng các công cụ tính toán phân tán và hiệu năng cao xây dựng các ứng dụng phân tích, khai phá dữ liệu một cách hiệu quả.\n\nCác công cụ sử dụng: Hadoop/Spark, MPI, OpenMP, GPU platform, ...\nDữ liệu: dữ liệu lớn: chuỗi thời gian\nThuật toán: học máy, học sâu, tính toán tiến hóa, tính toán thông minh, khai phá dữ liệu\nBài toán: Dự báo, phát hiện hành vi, thói quen\nỨng dụng: Web, ứng dụng Mobile\nLĩnh vực: thương mại điện tử, tài chính, phân tích log máy chủ, an toàn thông tin",
+				"id": null,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"undergradStudents": {
+		"heading": "Undergrad students",
+		"items": [
+			{
+				"fullName": "Bùi Ngọc Phương",
+				"courseId": "IT5904",
+				"classId": "705422",
+				"program": "KSCLC",
+				"studentId": "20163209",
+				"topic": "Phát triển các dịch vụ lõi và tiện ích cho nền tảng V-Chain",
+				"semester": "20202",
+				"id": null,
+				"visible": true
+			},
+			{
+				"fullName": "Nguyễn Văn Nam",
+				"courseId": "IT5120E",
+				"classId": "122229",
+				"program": "CTTT",
+				"studentId": "20162844",
+				"topic": "",
+				"semester": "20202",
+				"id": null,
+				"visible": true
+			},
+			{
+				"fullName": "Nguyễn Đức Đô",
+				"courseId": "IT5120",
+				"classId": "122221",
+				"program": "HEDSPI",
+				"studentId": "20167131",
+				"topic": "",
+				"semester": "20202",
+				"id": null,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"postgradStudents": {
+		"heading": "Postgrad students",
+		"items": [
+			{
+				"fullName": "Trần Đức Nhuận",
+				"courseId": "LV6001",
+				"classId": "ThS2017A",
+				"program": "ThSKH",
+				"studentId": "CA170385",
+				"topic": "",
+				"semester": "20173",
+				"id": null,
+				"visible": true
+			},
+			{
+				"fullName": "Vũ Nguyên  Giáp",
+				"courseId": "LV6001",
+				"classId": "ThS2017B",
+				"program": "ThSKH",
+				"studentId": "CBC17017",
+				"topic": "",
+				"semester": "",
+				"id": null,
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#f44336",
+			"text": "#212121"
+		},
+		"layout": {
+			"castform": [
+				[
+					"education",
+					"awards",
+					"certifications",
+					"publications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"courses",
+					"research",
+					"skills",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"publications",
+					"research",
+					"courses",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"skills",
+					"projects",
+					"languages",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects",
+					"publications",
+					"courses",
+					"research"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"publications",
+					"research",
+					"courses",
+					"projects",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"doremon": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"courses",
+					"research"
+				],
+				[
+					"education",
+					"certifications",
+					"awards",
+					"work",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"nobita": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"courses",
+					"research"
+				],
+				[
+					"objective",
+					"education",
+					"certifications",
+					"awards",
+					"work",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents",
+					"references"
+				]
+			],
+			"chaien": [
+				[
+					"references",
+					"skills",
+					"languages",
+					"hobbies",
+					"certifications",
+					"awards"
+				],
+				[
+					"work",
+					"education",
+					"courses",
+					"research",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			],
+			"xuka": [
+				[
+					"references",
+					"skills",
+					"languages",
+					"hobbies",
+					"certifications",
+					"awards"
+				],
+				[
+					"work",
+					"education",
+					"courses",
+					"research",
+					"projects",
+					"publications",
+					"topic",
+					"undergradStudents",
+					"postgradStudents"
+				]
+			]
+		},
+		"sections": [
+			"profile",
+			"social",
+			"objective",
+			"work",
+			"education",
+			"publications",
+			"courses",
+			"research",
+			"projects",
+			"awards",
+			"certifications",
+			"skills",
+			"hobbies",
+			"languages",
+			"references",
+			"topic",
+			"undergradStudents",
+			"postgradStudents"
+		],
+		"font": "Open Sans",
+		"fontSize": 12,
+		"language": "en",
+		"template": "onyx",
+		"name": "Resume CV"
+	},
+	"sectionsLeft": [
+		{
+			"id": "profile"
+		}
+	],
+	"sectionsRight": [
+		{
+			"id": "templates"
+		},
+		{
+			"id": "about"
+		}
+	],
+	"public": true
+}
